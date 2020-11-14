@@ -8,6 +8,8 @@
 
 - 🤔 I’m looking for help with ... **Sketcher Cloud Inc** ^^
 
+- 🌐 Mastered languages: **HTML**, **CSS**, **JS**, **PHP**, **Lua**, **C** & **C#**, **Go**, **Python** *(Beginner!)*
+
 - 💬 Ask me about ... whatever you want!
 
 - 📫 How to reach me: [www.simonmalpel.fr](https://www.simonmalpel.fr/) :)
