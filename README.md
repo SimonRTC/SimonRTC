@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with ... **Sketcher Cloud Inc** ^^
 
-- 🌐 Mastered languages: **HTML**, **CSS**, **JS**, **PHP**, **Lua**, **C** & **C#**, **Go**, **Python** *(Beginner!)*
+- 🌐 Mastered languages: **HTML**, **CSS**, **JS**, **PHP**, **Lua**, **C** & **C#**, **Go** *(Beginner!)*, **Python**
 
 - 💬 Ask me about ... whatever you want!
 
