@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on **Sketcher Cloud Inc** (More on [GitHub profile](https://github.com/Sketcher-Cloud-Inc))
 
-- 🌱 I’m currently learning **[Java EE](http://www.dawan.fr/)**, **[OpenStack Ironic](https://wiki.openstack.org/wiki/Ironic)** (dynamic bare-metal providing), **[K8S](http://k8s.io/)**
-
-- 👯 I’m looking to collaborate on **[OpenStack Ironic](https://github.com/openstack/ironic)**
+- 🌱 I’m currently learning **[Java EE](http://www.dawan.fr/)**, **[K8S](http://k8s.io/)**
 
 - 🤔 I’m looking for help with ... **Sketcher Cloud Inc** ^^
 
