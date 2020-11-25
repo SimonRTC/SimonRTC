@@ -13,3 +13,9 @@
 - 📫 How to reach me: [www.simonmalpel.fr](https://www.simonmalpel.fr/) :)
 
 - ⚡ Fun fact: **I ❤️ OPEN SOURCE!**
+
+
+--- 
+
+- 👽 [Stackoverflow](https://stackoverflow.com/users/14707856/)
+- 🚀 [Linkedin](https://www.linkedin.com/in/simon-malpel/)
