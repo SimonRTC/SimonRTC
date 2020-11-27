@@ -8,8 +8,6 @@
 
 - 🌐 Mastered languages: **HTML**, **CSS**, **JS**, **PHP**, **Lua**, **C** & **C#**, **Go** *(Beginner!)*, **Python**
 
-- 💬 Ask me about ... whatever you want!
-
 - 📫 How to reach me: [www.simonmalpel.fr](https://www.simonmalpel.fr/) :)
 
 - ⚡ Fun fact: **I ❤️ OPEN SOURCE!**
