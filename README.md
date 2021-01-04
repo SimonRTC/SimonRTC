@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Sketcher Cloud Inc** (More on [GitHub profile](https://github.com/Sketcher-Cloud-Inc))
 
-- 🌱 I’m currently learning **[Java EE](http://www.dawan.fr/)**, **[K8S](http://k8s.io/)**
+- 🌱 I’m currently learning **[C#](http://www.dawan.fr/)**
 
 - 🤔 I’m looking for help with ... **Sketcher Cloud Inc** ^^
 
