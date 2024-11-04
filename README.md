@@ -1,7 +1,7 @@
 <h2>Hi, I'm Simon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/39.png" width="230">
 <p>
-    <em>DevOps Enginner at <a href="https://www.sigma.fr">Groupe Sigma</a>
+    <em>Network Enginner at <a href="https://www.ovhcloud.com">OVHcloud</a>
 </p>
 
 [![Linkedin: simon-malpel](https://img.shields.io/badge/-Simon%20Malpel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-malpel/)](https://www.linkedin.com/in/simon-malpel/)
